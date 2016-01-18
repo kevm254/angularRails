@@ -1,0 +1,9 @@
+here is a link to integrate bower with rails:
+http://dotwell.io/taking-advantage-of-bower-in-your-rails-4-app/
+http://growingdevs.com/stop-using-rubygems-and-start-using-bower.html
+
+to change the default bower installation directory:
+http://stackoverflow.com/questions/14079833/how-to-change-bowers-default-components-folder
+
+if you're having an error talking about sass, then make sure sass-rails is installed
+
