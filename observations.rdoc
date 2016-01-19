@@ -1,3 +1,9 @@
+when using node with linux, install node using nvm, which is node version manager.
+It will save you a TON of trouble in the long-run, especially since it
+avoids having to dig into directories to remove stray node files when
+you want to update node.js
+
+
 here is a link to integrate bower with rails:
 http://dotwell.io/taking-advantage-of-bower-in-your-rails-4-app/
 http://growingdevs.com/stop-using-rubygems-and-start-using-bower.html
@@ -7,3 +13,6 @@ http://stackoverflow.com/questions/14079833/how-to-change-bowers-default-compone
 
 if you're having an error talking about sass, then make sure sass-rails is installed
 
+add null to the migrations to prevent null data from getting into the database
+
+use the faker gem to create test data

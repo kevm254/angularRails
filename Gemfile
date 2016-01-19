@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'devise', :github => 'plataformatec/devise', :branch => 'master'
 gem 'bower-rails'
+gem 'faker'
 
 gem 'sass-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
