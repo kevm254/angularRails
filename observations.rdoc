@@ -16,3 +16,5 @@ if you're having an error talking about sass, then make sure sass-rails is insta
 add null to the migrations to prevent null data from getting into the database
 
 use the faker gem to create test data
+
+l is localize, which localizes information to people's area
